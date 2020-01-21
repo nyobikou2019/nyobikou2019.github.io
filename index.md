@@ -50,3 +50,9 @@ function add(a, b) {
   return a + b;
 }
 ```
+
+   Continued here.   
+   
+三角形について  
+: 二等辺三角形  
+: 2つの辺の長さが等しい三角形

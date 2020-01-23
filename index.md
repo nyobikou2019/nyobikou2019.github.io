@@ -44,6 +44,13 @@ N予備校でプログラミングを勉強中
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">『<a href="https://twitter.com/hashtag/%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF?src=hash&amp;ref_src=twsrc%5Etfw">#君の名は</a>。』を手掛けた世界的アニメーター <a href="https://twitter.com/hashtag/%E7%94%B0%E4%B8%AD%E5%B0%86%E8%B3%80?src=hash&amp;ref_src=twsrc%5Etfw">#田中将賀</a> から学ぶイラスト授業“人を惹きつけるキャラクターのつくりかた“を2月2日に開催 | N高等学校(通信制高校 広域・単位制) <a href="https://t.co/4cKlQuYC5X">https://t.co/4cKlQuYC5X</a><a href="https://twitter.com/tanamasa0119?ref_src=twsrc%5Etfw">@tanamasa0119</a> <a href="https://twitter.com/hashtag/%E3%81%82%E3%81%AE%E8%8A%B1?src=hash&amp;ref_src=twsrc%5Etfw">#あの花</a></p>&mdash; Ｎ高等学校（学校法人角川ドワンゴ学園） (@nhigh_info) <a href="https://twitter.com/nhigh_info/status/1219478791702994944?ref_src=twsrc%5Etfw">January 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>　
+　
+
+
+
+
+
 [リンクです](https://nnn.ed.nico)
 
 

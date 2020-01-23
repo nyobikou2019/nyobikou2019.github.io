@@ -1,3 +1,4 @@
+![プロフィール画像](fde20fd0-private.png)
 # About
 N予備校でプログラミングを勉強中
 

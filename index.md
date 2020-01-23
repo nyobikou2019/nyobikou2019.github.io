@@ -40,6 +40,10 @@ N予備校でプログラミングを勉強中
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5HOIwyth3zE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+<a class="twitter-timeline" data-width="400" data-height="600" data-theme="light" href="https://twitter.com/Nyobihiro?ref_src=twsrc%5Etfw">Tweets by Nyobihiro</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+
 [リンクです](https://nnn.ed.nico)
 
 

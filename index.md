@@ -1,4 +1,5 @@
-![プロフィール画像](fde20fd0-private.png)
+<img src="fde20fd0-private.png" width="300">
+
 # About
 N予備校でプログラミングを勉強中
 
